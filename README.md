@@ -5,25 +5,25 @@
 
 # UI Snapshots
 ### Registration
-![Registration](./images/Sign_Up.png)
+![Registration](./images/Sign_Up.PNG)
 ### Verification Email
-![Verification Email](./images/User_Verification_Email.png)
+![Verification Email](./images/User_Verification_Email.PNG)
 ### Sign In
-![Sign In](./images/Sign_In.png)
+![Sign In](./images/Sign_In.PNG)
 ### Profile 
-![Profile](./images/Profile.png)
+![Profile](./images/Profile.PNG)
 ### Ask Questions
-![Ask Questions](./images/Ask_Question.png)
+![Ask Questions](./images/Ask_Question.PNG)
 ### Questions Feed
-![Questions Feed](./images/Feed.png)
+![Questions Feed](./images/Feed.PNG)
 ### Add Answer 
 ![Add Answer](./images/Answers.PNG)
 ### Tag Based Filtering
-![Tag Based Filtering](./images/Tag_based_filtering.png)
+![Tag Based Filtering](./images/Tag_based_filtering.PNG)
 ### Forgot Password
-![Forgot Password](./images/Forgot_Password.png)
+![Forgot Password](./images/Forgot_Password.PNG)
 ### Reset Password Email
-![Reset Password Email](./images/Password_Reset_Email.png)
+![Reset Password Email](./images/Password_Reset_Email.PNG)
 
 ## Thanks
 + I'd appreciate a star if you find this helpful.
